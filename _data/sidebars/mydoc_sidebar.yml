@@ -27,11 +27,7 @@ entries:
       url: /index.html
       output: web, pdf
       type: homepage
-
-  - title: Background
-    output: web, pdf
-    folderitems:
-    - title: Learn
+    - title: Background about Line 3
       url: /learn.html
       output: web, pdf
 

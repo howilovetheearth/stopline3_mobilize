@@ -6,8 +6,10 @@ sidebar: mydoc_sidebar
 permalink: index.html
 summary: This is a guide for anyone interested in going to Minnesota to stop line 3.
 ---
-## Status
 
+<img style="max-width: 400px;" src="{{ "images/line3_week_of_mobilization.jpg" }}" alt="Company logo"/>
+
+## Status
 Indigenous Water Protectors fighting Line 3 in Minnesota have put out a call:
 
 > Show up to support the Front lines. 
