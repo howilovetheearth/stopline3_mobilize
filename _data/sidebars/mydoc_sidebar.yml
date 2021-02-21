@@ -31,6 +31,14 @@ entries:
       url: /learn.html
       output: web, pdf
 
+  - title: Show Up
+    output: web, pdf
+    folderitems:
+      - title: Interest Form and Contact Information
+        url: /interest_form.html
+        output: web, pdf
+
+
   - title: Trainings
     output: web, pdf
     folderitems:
@@ -45,13 +53,6 @@ entries:
         url: /about_camps.html
         output: web, pdf
 
-
-  - title: Interest Form
-    output: web, pdf
-    folderitems:
-    - title: Interest Form
-      url: /interest_form.html
-      output: web, pdf
 
 
   - title: Donate
