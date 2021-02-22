@@ -1,7 +1,6 @@
 ---
 title: "About This Guide"
 keywords: sample homepage
-tags: [getting_started]
 sidebar: mydoc_sidebar
 permalink: index.html
 summary: This is a guide for anyone interested in going to Minnesota to stop line 3.
@@ -12,7 +11,7 @@ summary: This is a guide for anyone interested in going to Minnesota to stop lin
 ## Hear the Call
 Indigenous Water Protectors fighting Line 3 in Minnesota have put out a call:
 
-> Show up to support the Front lines. 
+> Show up to support the front lines. 
 
 At the moment:
 - Enbridge is close to crossing the 22 waterways that Water Protectors are trying to protect. 

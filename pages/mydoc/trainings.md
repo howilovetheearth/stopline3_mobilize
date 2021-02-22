@@ -1,6 +1,5 @@
 ---
 title: Webinars and Guides
-tags: [trainings]
 keywords: release notes, announcements, what's new, new features
 last_updated: July 16, 2016
 summary: "Train to head up to Minnesota."

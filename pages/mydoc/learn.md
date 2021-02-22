@@ -1,6 +1,5 @@
 ---
 title: Learn
-tags: [background]
 keywords: release notes, announcements, what's new, new features
 last_updated: July 16, 2016
 summary: "Heard about line 3 in the news? Need to learn more before you think about going?"

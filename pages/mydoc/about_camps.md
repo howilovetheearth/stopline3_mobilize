@@ -1,6 +1,5 @@
 ---
 title: About the Area
-tags: [background]
 keywords: release notes, announcements, what's new, new features
 last_updated: July 16, 2016
 summary: "Please read on to get a feel for the area and the camps you would frequent."

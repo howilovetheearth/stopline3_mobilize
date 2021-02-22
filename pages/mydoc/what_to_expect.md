@@ -1,6 +1,5 @@
 ---
 title: What to Expect and Packing Information
-tags: [background]
 keywords: release notes, announcements, what's new, new features
 last_updated: July 16, 2016
 summary: "Please read this section to learn about our Covid precautions"
