@@ -17,3 +17,8 @@ _We will show up humble, self-sufficient, and ready to take action._
 ## What to Expect and Packing
 - Please see [this pdf](/assets/minnesota_logistics.pdf).
 
+## Legality
+
+This organization is working with the National Lawyers's Guild and Civil Liberties Defense Center. Attend our Legal Training on February 27th learn more.
+
+
