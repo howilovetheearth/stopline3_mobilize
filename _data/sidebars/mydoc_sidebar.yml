@@ -34,7 +34,7 @@ entries:
   - title: Show Up
     output: web, pdf
     folderitems:
-      - title: Interest Form and Contact Information
+      - title: Let's Go!
         url: /interest_form.html
         output: web, pdf
 

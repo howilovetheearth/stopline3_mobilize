@@ -9,7 +9,7 @@ folder: mydoc
 ---
 
 ## Nearby Locations
-- Sawyer and McGreggor are, amother other towns, nearby ones. Please check these towns for weather and (if you want) lodging. The nearest Airport is in Duluth, which is a few hours away from the camps.
+- Sawyer and McGreggor are close to the camps. There are other nearby towns. Please check these towns for weather and (if you want) lodging. The nearest Airport is in Duluth, which is a few hours away from the camps.
 
 
 
