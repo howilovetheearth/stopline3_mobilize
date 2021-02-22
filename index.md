@@ -25,5 +25,5 @@ At the moment:
   
 ## Answer the Call
 
-Please jump <a href="/stopline3_mobilize/interest_form.html">here</a>.
+Please jump [here.]({{ site.baseurl }}{% link pages/mydoc/interest_form.md %})
 
