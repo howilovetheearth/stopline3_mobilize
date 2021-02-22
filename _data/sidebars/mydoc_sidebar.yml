@@ -42,15 +42,21 @@ entries:
   - title: Trainings
     output: web, pdf
     folderitems:
-      - title: Trainings
+      - title: Webinars and Guides
         url: /trainings.html
         output: web, pdf
 
   - title: Covid and Logistics
     output: web, pdf
     folderitems:
+      - title: Covid Precautions
+        url: /covid.html
+        output: web, pdf
       - title: About the Camps
         url: /about_camps.html
+        output: web, pdf
+      - title: What to Expect
+        url: /what_to_expect.html
         output: web, pdf
 
 

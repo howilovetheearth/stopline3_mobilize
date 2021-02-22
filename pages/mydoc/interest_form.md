@@ -9,11 +9,11 @@ permalink: interest_form.html
 folder: mydoc
 ---
 
-## Sign up to Attend and Get in Touch with an Organizer
+## Step 1: Fill out this Form 
 
 Fill out this form <a target="_blank" href="https://form.jotform.com/210335630809047">here</a>.
 
-## Email your Regional Liaison to explore travelling together to Minnesota.
+## Step 2: Email your Regional Liaison to explore travelling together to Minnesota.
 
 {% for region_data in site.data.regional_liaisons %}
 - {{ region_data.region }}

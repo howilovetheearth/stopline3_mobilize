@@ -1,5 +1,5 @@
 ---
-title: Webinars, Guides and Powerpoints
+title: Webinars and Guides
 tags: [trainings]
 keywords: release notes, announcements, what's new, new features
 last_updated: July 16, 2016
