@@ -14,7 +14,7 @@ We need to create a massive amount of pressure to shut this pipeline down for go
 Indigenous water protectors cannot do it alone–they need bodies.
 _We will show up humble, self-sufficient, and ready to take action._
 
-## What to Expect and Packing
+## What to Expect and Packing Information
 - Please see [this pdf](/assets/minnesota_logistics.pdf).
 
 ## Legality
