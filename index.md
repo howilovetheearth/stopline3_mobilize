@@ -12,6 +12,7 @@ summary: This is a guide for anyone interested in going to Minnesota to stop lin
 Indigenous Water Protectors fighting Line 3 in Minnesota have put out a call:
 
 > Show up to support the front lines. 
+Hear <a target="_blank" href="https://youtu.be/Pmy7nYXkEUU?t=1211">Tara Houska </a> and <a target="_blank" href="https://youtu.be/Pmy7nYXkEUU?t=1030" blank="_target">Taysha Martineau</a> put out the call.
 
 At the moment:
 - Enbridge is close to crossing the 22 waterways that Water Protectors are trying to protect. 
@@ -25,5 +26,5 @@ At the moment:
   
 ## Answer the Call
 
-Please jump [here.]({{ site.baseurl }}{% link pages/mydoc/interest_form.md %})
+Please jump [here.]({{ site.baseurl }}{% link pages/mydoc/interest_form.md %}){:target="_blank"}
 

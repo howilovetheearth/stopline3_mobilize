@@ -9,7 +9,8 @@ folder: mydoc
 ---
 
 ## Nearby Locations
-- Sawyer and McGreggor are close to the camps. There are other nearby towns. Please check these towns for weather and (if you want) lodging. The nearest Airport is in Duluth, which is a few hours away from the camps.
+- <a target="_blank" href="https://goo.gl/maps/7VwtdRMUHbjT8uko8">Sawyer</a> and <a target="_blank" href="https://goo.gl/maps/hy1maUXiCLBBXJwE6">Park Rapids </a> are nearby towns. There are other nearby towns. Please check these towns for weather and (if you want) lodging. The nearest Airport is in Duluth, which is a few hours away from the camps.
+- This is a <a target="_blank" href="https://www.stopline3.org/map">map</a> of Line 3's route.
 
 
 

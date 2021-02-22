@@ -19,3 +19,5 @@ Fill out this form <a target="_blank" href="https://form.jotform.com/21033563080
     - <a href="mailto: {{ region_data.email }}">{{ region_data.email }}</a>
 {% endfor %}
 
+
+## Step 3: Read the [Training]({{ site.baseurl }}{% link pages/mydoc/trainings.md %}){:target="_blank"} section and the [Covid and Logistics]({{ site.baseurl }}{% link pages/mydoc/covid.md %}){:target="_blank"} sections.
