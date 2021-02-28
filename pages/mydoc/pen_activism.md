@@ -8,6 +8,8 @@ permalink: pen_activism.html
 folder: mydoc
 ---
 
+Stop the Money Pipeline and 350 have put together these action opportunities.
+
 ## Postcards
 - Fill out this <a href="https://docs.google.com/forms/d/e/1FAIpQLSeJIEA95L0Pt8xO3w60ti-6kgiNE3ghxdsX9WyTeldoj-y6YA/viewform?eType=EmailBlastContent&eId=bcccfd77-7cae-4ee9-a397-c9a64144d6b6" target="_blank">form by March 3rd</a>
   to let us know how many postcards you -— and friends you recruit -— will commit to send! Each person can send a postcard to 12 different bank executives!
@@ -21,15 +23,15 @@ line 3. Join the calendar jam <a href="https://stopthemoneypipeline.com/line-3-c
 
 ## Call
 - Pick up the phone and call bank executives to demand that they do not renew their loan deal with Enbridge and that they #DefundLine3. 
- - Here are some numbers for these big several pipeline funders:
+ - Some numbers for several pipeline funders:
  - CHASE:
    - Customer Service Line: 1-800-935-9935
  - Bank of America:
    - Customer Service Line: 1 (800) 432-1000
  - Citibank:
    - Customer Service Line: 1 (800) 374-9700
-   - Wells Fargo(lends to Enbridge but not 3/31 renewal):
-- Customer Service Line: 1(800) 869-3557
+ - Wells Fargo (lends to Enbridge but not implicated in the 3/31 renewal):
+   - Customer Service Line: 1(800) 869-3557
 
 ## Write to Gina McCarthy
 - Write Gina McCarthy, White House National Climate Advisor. Tell her they must put a stop to Line 3 and DAPL as soon as possible but no later than Earth Day!
