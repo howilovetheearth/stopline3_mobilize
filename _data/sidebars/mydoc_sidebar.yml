@@ -68,3 +68,10 @@ entries:
       - title: Donate
         url: /donate.html
         output: web, pdf
+  - title: Remote Activism
+    output: web, pdf
+
+    folderitems:
+      - title: The Pen Is Mighty
+        url: /pen_activism.html
+        output: web, pdf
