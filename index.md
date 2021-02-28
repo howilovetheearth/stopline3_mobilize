@@ -3,7 +3,7 @@ title: "About This Guide"
 keywords: sample homepage
 sidebar: mydoc_sidebar
 permalink: index.html
-summary: This is a guide for anyone interested in going to Minnesota to stop line 3.
+summary: This is a guide for anyone interested in going to Minnesota to stop line 3. 
 ---
 
 <img style="max-width: 400px;" src="{{ "images/line3_week_of_mobilization.jpg" }}" alt="Company logo"/>
@@ -28,3 +28,7 @@ At the moment:
 
 Please jump [here.]({{ site.baseurl }}{% link pages/mydoc/interest_form.md %}){:target="_blank"}
 
+
+## Can't go in person?
+
+If you can't go in person, please see [this.]({{ site.baseurl }}{% link pages/mydoc/pen_activism.md %}){:target="_blank"}
