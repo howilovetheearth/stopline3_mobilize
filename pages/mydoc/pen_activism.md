@@ -2,7 +2,7 @@
 title: Direct Action and Pen Activism
 keywords: release notes, announcements, what's new, new features
 last_updated: July 16, 2016
-summary: "If you cannot go to Minnesota, you can still take action locally and by writing and calling."
+summary: "If you cannot go to Minnesota, you can still take action locally, and you can write and call."
 sidebar: mydoc_sidebar
 permalink: pen_activism.html
 folder: mydoc
@@ -16,7 +16,7 @@ folder: mydoc
 
 We encourage every locality to do a socially-distanced replicable action in front of _at least_ one of the key banks considering loan
 renewals (such as Chase or Bank of America). The goal is to do this in solidarity with the national mobilization going on in
-Minnesota 3/8-3/14 (or even after that until the $2.2 billion loan renewal date March 31 st).
+Minnesota 3/8-3/14 (or even after that until the $2.2 billion loan renewal date on March 31st).
 
 
 - Please attend [a March 3rd training on solidarity actions]({{ site.baseurl }}{% link pages/mydoc/trainings.md %}){:target="_blank"} to learn more.
