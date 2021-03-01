@@ -31,4 +31,4 @@ Please jump [here.]({{ site.baseurl }}{% link pages/mydoc/interest_form.md %}){:
 
 ## Can't go in person?
 
-If you can't go in person, please see [this.]({{ site.baseurl }}{% link pages/mydoc/pen_activism.md %}){:target="_blank"}
+If you can't go in person anytime soon, please see [this.]({{ site.baseurl }}{% link pages/mydoc/pen_activism.md %}){:target="_blank"}

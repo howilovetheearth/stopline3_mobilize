@@ -1,5 +1,5 @@
 ---
-title: Our Voices and Pens are Mighty
+title: Direct Action and Pen Activism
 keywords: release notes, announcements, what's new, new features
 last_updated: July 16, 2016
 summary: "If you cannot go to Minnesota, you can still take action locally and by writing and calling."
@@ -8,13 +8,13 @@ permalink: pen_activism.html
 folder: mydoc
 ---
 
-# With Your Voice
+# Direct Action
 
 ## Announce your Action
-- Broadcast your action onto this <a href="https://howilovetheearth.github.io/stopline3_local_actions" target="_blank">site</a> for others to see.
+- Broadcast your action here <a href="https://howilovetheearth.github.io/stopline3_local_actions" target="_blank">site</a> for others to see.
 
 
-We encourage every locality to do a socially-distanced replicable action at one of the key banks considering loan
+We encourage every locality to do a socially-distanced replicable action at _at least_ one of the key banks considering loan
 renewals (such as Chase or Bank of America). The goal is to do this in solidarity with the national mobilization going on in
 Minnesota 3/8-3/14 (or even after that until the $2.2 billion loan renewal date March 31 st).
 
@@ -34,13 +34,13 @@ leadership in planning and implementation:
    Line 3 and being sent for export). Get creative and brainstorm. Make it beautiful and eye-
    catching! Chalk clear messages with facts about Line 3 and relating tar sands and climate chaos.
 - Create street theatre about Line 3 (how about a parody on Indigenous lands being invaded
-   without their consents by having folks dressed up as construction workers (hard hats,
+   without their consent by having folks dressed up as construction workers (hard hats,
    clipboards, huge black pipes) coming in and starting to lay down pipe in front of their doors or in
-   their lobby while saying “Yep, we’ve got a work order here…..What? You didn’t ask for this?
-   Hmmmmm….well we’ve got our orders and must get it installed as soon as possible…..”. How
+   their lobby while saying “Yep, we’ve got a work order here...What? You didn’t ask for this?
+   Hmmmmm...well we’ve got our orders and must get it installed as soon as possible...”. How
    about a skit with a black molasses oil spill in front of their door and focus on Enbridge’s
-   wretched record of over 73 oil spills in 10 years including the I million barrel spill into the
-   Kalamazoo river that cost $1.2 billion to clean up…….This pipeline is going under 227 waterways
+   wretched record of over 73 oil spills in 10 years including the 1 million barrel spill into the
+   Kalamazoo river that cost $1.2 billion to clean up... This pipeline is going under 227 waterways
    including the headwaters of the Mississippi and across 800 wetlands and is a disaster waiting to
    happen. Talk about how heavy tar sands oil sinks and would be almost impossible to clean up
    as you are “cleaning up” the molasses spill.
