@@ -1,13 +1,64 @@
 ---
-title: The Pen is Mighty
+title: Our Voices and Pens are Mighty
 keywords: release notes, announcements, what's new, new features
 last_updated: July 16, 2016
-summary: "If you cannot go to Minnesota, you can still take action by writing and calling."
+summary: "If you cannot go to Minnesota, you can still take action locally and by writing and calling."
 sidebar: mydoc_sidebar
 permalink: pen_activism.html
 folder: mydoc
 ---
 
+# With Your Voice
+
+## Announce your Action
+- Broadcast your action onto this <a href="https://howilovetheearth.github.io/stopline3_local_actions" target="_blank">site</a> for others to see.
+
+
+We encourage every locality to do a socially-distanced replicable action at one of the key banks considering loan
+renewals (such as Chase or Bank of America). The goal is to do this in solidarity with the national mobilization going on in
+Minnesota 3/8-3/14 (or even after that until the $2.2 billion loan renewal date March 31 st).
+
+
+- Please attend [a March 3rd training on solidarity actions]({{ site.baseurl }}{% link pages/mydoc/trainings.md %}){:target="_blank"} to learn more.
+
+
+
+## Local Action Ideas
+
+Here are some concrete ideas to help you plan. Reach out to Indigenous leaders and drummers for
+leadership in planning and implementation:
+
+- Make colorful banners with clear messaging “Defund Line 3 or We Divest! Stop Line 3!”
+- Think of visuals that will make a powerful impact (such as setting up silhouettes of 50 coal fired
+   power plants, the daily carbon equivalent of the 844K barrels of tar sands oil coming through
+   Line 3 and being sent for export). Get creative and brainstorm. Make it beautiful and eye-
+   catching! Chalk clear messages with facts about Line 3 and relating tar sands and climate chaos.
+- Create street theatre about Line 3 (how about a parody on Indigenous lands being invaded
+   without their consents by having folks dressed up as construction workers (hard hats,
+   clipboards, huge black pipes) coming in and starting to lay down pipe in front of their doors or in
+   their lobby while saying “Yep, we’ve got a work order here…..What? You didn’t ask for this?
+   Hmmmmm….well we’ve got our orders and must get it installed as soon as possible…..”. How
+   about a skit with a black molasses oil spill in front of their door and focus on Enbridge’s
+   wretched record of over 73 oil spills in 10 years including the I million barrel spill into the
+   Kalamazoo river that cost $1.2 billion to clean up…….This pipeline is going under 227 waterways
+   including the headwaters of the Mississippi and across 800 wetlands and is a disaster waiting to
+   happen. Talk about how heavy tar sands oil sinks and would be almost impossible to clean up
+   as you are “cleaning up” the molasses spill.
+- Hand out leaflets explaining to customers why they should put pressure on their bank and why
+   they should consider divesting if the banks don’t stop funding Line 3 (and other fossil fuel
+   projects).
+- Send out a press release, follow up with calls to the media, keep pestering them to turn out and
+   cover the event. Get on community radio and public radio talk shows and calendars.
+- Make your own social media and be sure to send photos of your actions to the Banks
+   themselves and to Gina McCarthy, the new White House Climate Policy Advisor.
+- Highlight, link with, livestream, and publicize actions going on in Minnesota and make the
+   connections to these local actions.
+- One you’ve come up with a replicable action, repeat it at other banks or bank branches!
+- Check to see if you have any local connections to folks on the Board of Enbridge or the Banks
+   doing the loan renewals and if so, then target their offices or homes with the Stop Line 3 and
+   Defund Line 3 messages.
+  
+# With the Pen
 Stop the Money Pipeline and 350 have put together these action opportunities.
 
 ## Postcards
@@ -22,7 +73,7 @@ line 3. Join the calendar jam <a href="https://stopthemoneypipeline.com/line-3-c
 - Send an email to major bank executives telling them to defund line 3 <a href="https://stopthemoneypipeline.com/defund-line-3/?emci=c2ca2534-556b-eb11-9889-00155d43c992&emdi=2c15e6eb-556b-eb11-9889-00155d43c992&ceid=4358187&eType=EmailBlastContent&eId=38b643d7-1fcd-4810-94dc-fce8af930fa7" target="_blank">here</a>.
 
 ## Call
-- Pick up the phone and call bank executives to demand that they do not renew their loan deal with Enbridge and that they #DefundLine3. 
+- <a href="https://stopthemoneypipeline.com/call-chase-defund-line-3/" target="_blank">Pick up the phone and call bank executives </a> to demand that they do not renew their loan deal with Enbridge and that they #DefundLine3. 
  - Some numbers for several pipeline funders:
  - CHASE:
    - Customer Service Line: 1-800-935-9935
@@ -34,7 +85,7 @@ line 3. Join the calendar jam <a href="https://stopthemoneypipeline.com/line-3-c
    - Customer Service Line: 1(800) 869-3557
 
 ## Write to Gina McCarthy
-- Write Gina McCarthy, White House National Climate Advisor. Tell her they must put a stop to Line 3 and DAPL as soon as possible but no later than Earth Day!
+- Write to Gina McCarthy, White House National Climate Advisor. Tell her they must put a stop to Line 3 and DAPL as soon as possible and at the latest by Earth Day before they dig under the waterways and destroy the wetlands.
 Mail to the White House, 1600 Pennsylvania Ave. NW  Washington DC 20500 and tweet her at @Gina_McCarthy!
   
 ## Boycott and Divest
