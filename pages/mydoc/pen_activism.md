@@ -11,10 +11,10 @@ folder: mydoc
 # Direct Action
 
 ## Announce your Action
-- Broadcast your action here <a href="https://howilovetheearth.github.io/stopline3_local_actions" target="_blank">site</a> for others to see.
+- Broadcast your action <a href="https://howilovetheearth.github.io/stopline3_local_actions" target="_blank">here</a> for others to see.
 
 
-We encourage every locality to do a socially-distanced replicable action at _at least_ one of the key banks considering loan
+We encourage every locality to do a socially-distanced replicable action in front of _at least_ one of the key banks considering loan
 renewals (such as Chase or Bank of America). The goal is to do this in solidarity with the national mobilization going on in
 Minnesota 3/8-3/14 (or even after that until the $2.2 billion loan renewal date March 31 st).
 
