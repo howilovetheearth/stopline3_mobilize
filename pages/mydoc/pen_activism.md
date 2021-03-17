@@ -5,8 +5,6 @@ last_updated: July 16, 2016
 summary: "If you cannot go to Minnesota, you can still take action locally, and you can write and call."
 sidebar: mydoc_sidebar
 permalink: pen_activism.html
-The goal is to do this in solidarity with the national mobilization going on in
-Minnesota 3/8-3/14 (or even after that until the $2.2 billion loan renewal date on March 31st).
 folder: mydoc
 ---
 
