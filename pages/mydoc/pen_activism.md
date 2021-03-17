@@ -5,6 +5,8 @@ last_updated: July 16, 2016
 summary: "If you cannot go to Minnesota, you can still take action locally, and you can write and call."
 sidebar: mydoc_sidebar
 permalink: pen_activism.html
+The goal is to do this in solidarity with the national mobilization going on in
+Minnesota 3/8-3/14 (or even after that until the $2.2 billion loan renewal date on March 31st).
 folder: mydoc
 ---
 
@@ -12,9 +14,7 @@ folder: mydoc
 
 ### Take Action
 - We encourage every locality to do a socially-distanced replicable action in front of _at least_ one of the key banks considering loan
-renewals (such as Chase or Bank of America). The goal is to do this in solidarity with the national mobilization going on in
-Minnesota 3/8-3/14 (or even after that until the $2.2 billion loan renewal date on March 31st).
-   - Please attend [a March 3rd training on solidarity actions]({{ site.baseurl }}{% link pages/mydoc/trainings.md %}){:target="_blank"} to learn more.
+renewals (such as Chase or Bank of America). Check out <a href="https://docs.google.com/document/d/1sKHQbosd7eWe4T3M4uozmaqSvAuczWeY6xX5NVfceEk/edit#" target="_blank">for some ideas</a>.
     
 ### Share your Action
 - Broadcast your action <a href="https://howilovetheearth.github.io/stopline3_local_actions" target="_blank">here</a> for others to join it.
